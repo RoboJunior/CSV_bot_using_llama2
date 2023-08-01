@@ -24,10 +24,6 @@ Here are some related projects
 [Junior Data Scientist](https://github.com/RoboJunior/Junior_DataScientist)
 
 Make sure check it out ☝️
-## Authors
-
-- [@RoboJunior](https://github.com/RoboJunior)
-
 
 ![Logo](https://i.ibb.co/H7xm81X/Robo-Junior.png)
 
